@@ -1,0 +1,24 @@
+Capturas - VPN Cisco IPSec IKEv2 Site-to-Site basada en enrutamiento
+Sael German 2025-0725
+
+Archivos incluidos:
+01_topologia_ikev2_route_based.png
+02_isp_show_ip_interface_brief.png
+03_r1_show_ip_interface_brief.png
+04_r1_show_running_config_interface_tunnel0.png
+05_r1_show_running_config_section_crypto.png
+06_r1_show_ip_route_lan_remota.png
+07_r2_show_ip_interface_brief.png
+08_r2_show_running_config_interface_tunnel0.png
+09_r2_show_running_config_section_crypto.png
+10_r2_show_ip_route_lan_remota.png
+11_r1_show_interface_tunnel0.png
+12_r2_show_interface_tunnel0.png
+13_vpc1_show_ip_ping_trace_to_vpc2.png
+14_vpc2_show_ip_ping_trace_to_vpc1.png
+15_r1_show_crypto_ikev2_sa.png
+16_r2_show_crypto_ikev2_sa.png
+17_r1_show_crypto_ipsec_sa.png
+18_r2_show_crypto_ipsec_sa.png
+19_r1_show_crypto_session.png
+20_r2_show_crypto_session.png
