@@ -260,7 +260,7 @@ show crypto session
 
 | Archivo | Descripción |
 |:-------:|-------------|
-| [`SaelGerman_2025-0725_Script_VPN_IPSec-IKEv2-Site-to-Site-basada-en-enrutamientoP2.pdf`](SaelGerman_2025-0725_Script_VPN_IPSec-IKEv2-Site-to-Site-basada-en-enrutamientoP2.pdf) | Scripts de configuración Cisco IOS |
+| [`SaelGerman_2025-0725_Script_VPN_IPSec-IKEv2-Site-to-Site-basada-en-enrutamientoP2.txt`](SaelGerman_2025-0725_Script_VPN_IPSec-IKEv2-Site-to-Site-basada-en-enrutamientoP2.txt) | Scripts de configuración Cisco IOS |
 | [`SaelGerman_2025-0725_VPN-IPSec-IKEv2-Site-to-Site-basada-en-enrutamiento_P2.pdf`](SaelGerman_2025-0725_VPN-IPSec-IKEv2-Site-to-Site-basada-en-enrutamiento_P2.pdf) | Documentación técnica completa |
 
 ---
